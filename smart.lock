@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "mdmailer": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "mdmailer": {
+        "path": "."
+      }
+    }
+  }
+}

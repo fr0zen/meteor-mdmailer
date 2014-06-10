@@ -1,0 +1,14 @@
+{
+  "name": "mdmailer",
+  "description": "mdmailer allow you to send emails using Markdown.",
+  "homepage": "",
+  "author": "Alan Meira <alanmeira@gmail.com> (http://www.engarte.com)",
+  "version": "0.0.1",
+  "git": "",
+  "packages": {
+    "coffeescript": {},
+		"marked": {},
+    "email": {},
+    "underscore": {}
+  }
+}
