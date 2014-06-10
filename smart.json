@@ -1,10 +1,10 @@
 {
   "name": "mdmailer",
   "description": "mdmailer allow you to send emails using Markdown.",
-  "homepage": "",
+  "homepage": "https://github.com/alanmeira/meteor-mdmailer",
   "author": "Alan Meira <alanmeira@gmail.com> (http://www.engarte.com)",
   "version": "0.0.1",
-  "git": "",
+  "git": "https://github.com/alanmeira/meteor-mdmailer",
   "packages": {
     "coffeescript": {},
 		"marked": {},
